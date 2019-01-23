@@ -1,0 +1,14 @@
+[
+	{
+		"imagem":"http://www.efusionsoft.com/ready2go/assets/2013/09/500x500-490x490.gif",
+		"titulo":"Noticia 2",
+		"descricao":"Descrição 2",
+		"noticia":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra rhoncus purus, a lacinia nisl gravida ac. Nullam vitae eros interdum, hendrerit erat at, blandit dui. Suspendisse placerat maximus quam, quis pellentesque nisl sagittis non. Aliquam sollicitudin erat tellus, a maximus dolor convallis ut. Nam eget lacus eu est ullamcorper sollicitudin. Nam hendrerit tristique lectus, id facilisis est maximus varius. Nulla ultricies lorem sit amet augue tincidunt, a cursus libero accumsan. Morbi at mauris eget dui laoreet ultrices. Curabitur eu ex ornare, tempor libero at, ultrices ipsum. Aliquam laoreet arcu eros, ac egestas orci mattis vel. Vivamus fermentum mi quis nibh rutrum, dictum feugiat arcu suscipit. Etiam ullamcorper pharetra iaculis. Quisque a gravida justo. Maecenas non tortor at odio blandit condimentum."
+	},
+	{
+		"imagem":"http://www.efusionsoft.com/ready2go/assets/2013/09/500x500-490x490.gif",
+		"titulo":"Noticia 1",
+		"descricao":"Descrição 1",
+		"noticia":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra rhoncus purus, a lacinia nisl gravida ac. Nullam vitae eros interdum, hendrerit erat at, blandit dui. Suspendisse placerat maximus quam, quis pellentesque nisl sagittis non. Aliquam sollicitudin erat tellus, a maximus dolor convallis ut. Nam eget lacus eu est ullamcorper sollicitudin. Nam hendrerit tristique lectus, id facilisis est maximus varius. Nulla ultricies lorem sit amet augue tincidunt, a cursus libero accumsan. Morbi at mauris eget dui laoreet ultrices. Curabitur eu ex ornare, tempor libero at, ultrices ipsum. Aliquam laoreet arcu eros, ac egestas orci mattis vel. Vivamus fermentum mi quis nibh rutrum, dictum feugiat arcu suscipit. Etiam ullamcorper pharetra iaculis. Quisque a gravida justo. Maecenas non tortor at odio blandit condimentum."
+	}
+]
